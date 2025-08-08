@@ -17,14 +17,14 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['51901930696', 'Angelithoxyz', true],
+  ['5212731590195', 'Orlando MxM', true],
   ['584146277368', 'Barboza', true],
   ['59897246324', 'izumi', true],
   ['50557865603', 'Willzek', true], 
   ['50248019799', '🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲', true],
   ['584245610338', 'Jose El Niño Bots', true],
 // <-- Número @lid -->
-  ['184486729879638', 'Angelithoxyz', true],
+  ['5212731590195', 'Orlando MxM', true],
   ['', '', true], 
   ['', '', true]
 ];
@@ -40,25 +40,25 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '𝐍𝐢𝐧𝐨 𝐍𝐚𝐤𝐚𝐧𝐨 𝐕2'
-global.namebot = '✿◟𝐍𝐢𝐧𝐨 𝐁𝐨𝐭◞✿'
+global.nameqr = 'SonicBot 𝐕1'
+global.namebot = '✿◟Sonic Bot◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐍𝐢𝐧𝐨 𝐍𝐚𝐤𝐚𝐧𝐨 𝐕2 ✰⪜'
-global.botname = '𝑵𝑰𝑵𝑶 𝑵𝑨𝑲𝑨𝑵𝑶 𝑽2'
-global.wm = '✿◟𝑁𝑖𝑛𝑜 𝑁𝑎𝑘𝑎𝑛𝑜 𝑉2◞✿'
-global.author = '𝕄𝕒𝕕𝕖 𝕎𝕚𝕥𝕙 𝔹𝕪 ℝ𝕪𝕦𝕤𝕖𝕚 ℂ𝕝𝕦𝕓'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝔸𝕟𝕘𝕖𝕝𝕚𝕥𝕙𝕠𝕩𝕪𝕫'
-global.textbot = 'ℕ𝕚𝕟𝕠, 𝕄𝕒𝕕𝕖 𝕎𝕚𝕥𝕙 𝔹𝕪 ℝ𝕪𝕦𝕤𝕖𝕚 ℂ𝕝𝕦𝕓'
-global.etiqueta = '𝔸𝕟𝕘𝕖𝕝𝕚𝕥𝕙𝕠𝕩𝕪𝕫'
+global.packname = '⪛✰ Sonicbot-ProMax 𝐕1 ✰⪜'
+global.botname = 'SonicBot-ProMax V1'
+global.wm = '✿◟SonicBot-ProMax V1◞✿'
+global.author = 'club Orlando By'
+global.dev = '© Powered BY Orlando '
+global.textbot = 'Club Orlando '
+global.etiqueta = 'Orlando MxM'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'NinoCoins'
+global.moneda = 'sonicCoins'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
 global.banner = 'https://files.catbox.moe/bvew26.jpg'
