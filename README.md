@@ -1,18 +1,48 @@
-<h1 align="center">✦ Nino Nakano V2✦</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Sonic%20ProMax%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
- <img src= "https://files.catbox.moe/bvew26.jpg">
-    </p>
+> **`🪩 Versión Actual: 2.1.0`**
 
-### **`❕️ Información importante`**
+## 💛 **`C R E A D O R`**    
+
+![Menú Principal](https://files.catbox.moe/hjl3b6.jpg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
+
+<a href="https://github.com/1OrlandoCastillo"><img src="https://cardivo.vercel.app/api?name=Sonic&repo=Sonic-ST&description=Hola+Soy+SonicBot+Disfruta+del+Bot+De+WhatsApp.&image=https://cdnmega.vercel.app/media/FlRSwb6Q@gi4Rb_NxJn8alIs5ugKRnaIu1Df0qxGjGymitgBPEv0/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=SonicBot&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ Orlando+Lanzó;🍷La+Version+2.1.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
+
+
+<a href="#"><img title="SonicBot" src="https://img.shields.io/badge/Sonic💛 | Orlando MxM💛 | STARCORE 💛-blue?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+</p>
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+### **`🎩 INFORMACION IMPORTANTE`**
+
+![Menu Secundario](https://files.catbox.moe/lq6fa1.jpg)
+
+> Enlaces Oficiales De SonicBot 
+
+### **`🔗 OBTEN LOS ENLACES`**
 
 <details>
- <summary><b> ➮ Info • Bot</b></summary>
+ <summary><b> 👉 Haz Click Aqui </b></summary>
 
-* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
+| APP | TIPO | ENLACE |
+|------|-------------|-------|
+| **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/CxOSeutssWuG7AnISdwq8W) |
+| **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/CxOSeutssWuG7AnISdwq8W) |
+
 </details>
 
+___
+
+### **`🔱 CARACTERÍSTICAS`**
 <details>
- <summary><b> ➮ Funciones</b></summary>
+ <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de Sonic-ProMax (toca)</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -25,148 +55,43 @@
 - [x] Chatbot (autoresponder)
 - [x] Crear sticker de image/video/gif/url
 - [x] SubBot (Jadibot)
-- [x] Buscador Google
+- [x]    Buscador Google
 - [x] Juego RPG
-- [x] Personalizar imagen del menú
+- [ ] Personalizar imagen del menú
 - [x] Descarga de música y video De YT
 - [ ] Otros
 
 </details>
 
----
+___
 
-### **`✧ Click en la imagen para descargar termux ✧`**
-<a
-href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
+### **`👑 INFORMACION CONTACTOS`**
 
-### **`➮ Instalación por termux`**
+#### **`Owner: Orlando castillo 🤴`**
+> **`Developed By: Crow's Club`**
 
-<details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
-
-### **❀ Instalación manual por termux**
-> Nota: Copie y pegue los comandos en termux uno por uno.
-```bash
-termux-setup-storage
-```
-
-```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/Angelithoxz/Nino-Nakano && cd Nino-Nakano
-```
-
-```bash
-yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
-npm start
-```
-
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
-
-### **🜸 Activar en caso de detenerse en termux**
-
-> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-❒ Abre Termux y navega al directorio del bot:
-
-   ```bash
-    cd Nino-Nakano
-   ```
-
-❒ Inicia el bot nuevamente:
-
-   ```bash
-    npm start
-   ```
-
-### **✰ Volverte owner del Bot**
-
-> Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
-
-   ```bash
-    cd Nino-Nakano && nano settings.js
-   ```
-
-</details>
-
----
-### **`➮ Enlaces útiles`**
-
-<details>
- <summary><b> 🜸 Enlaces Oficiales </b></summary>
-
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/LYLiORNWzHkIsiecvCCdgK?mode=ac_t)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/HeKcGyv2idq0tMFRFGN6qL?mode=ac_t)
-</details>
-
-<details>
-<summary><b> ✰ Contáctos</b></summary>
-
-* WhatsApp: [`Aquí`](https://wa.me/51901930696)
-* Correo: [`Aquí`](angelithoxyz@gmail.com)
-
-</details>
-
----
-
-### **`✧ CUERVO HOST ✧`**
+#### **`CONTACTOS 💻`**
+<p>
 
 <a
-href="https://dash.cuervo-host.xyz"><img src="https://files.catbox.moe/t69rnd.jpg" height="125px"></a>
+href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
- <summary><b> ❒ Servidor Cuervo Host Plus</b></summary>
+<summary><b> 📞 Toca Aqui</b></summary>
 
-* Dashboard : [`Dash`](https://dash.cuervo-host.xyz)
-* Panel : [`Panel`](https://panel.cuervo-host.xyz)
+- **Propietario:** [`Aquí`](https:/Wa.me/5212731590195)
 
 </details>
 
----
+</details>
 
+## 🐦‍🔥 **`COLABORADORES`**
+<a href="https://github.com/1OrlandoCastillo"><img src="https://github.com/1OrlandoCastillo.png" width="100" height="100" alt="Orlando"/></a>
 
----
-
-### **`✦ AKIRAX ✦`**
-
+## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Akirax</b></summary>
-
-* Dashboard : [`Dash`](https://home.akirax.net)
-* Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+href="https://github.com/Emanuel1273"><img src="https://github.com/Emanuel1273.png" width="130" height="130" alt="WillZek"/></a>
 
 </details>
 
----
-
-### **`ᥫ᭡ Propietario`**
-<a href="https://github.com/Angelithoxyz">
-  <img src="https://files.catbox.moe/c0oj3h.jpg" width="130" height="130" alt="Dev.Angel.Xyz" style="border-radius: 50%;" />
-</a>
-
-### **`🜸 Créditos`**
-<a href="https://github.com/Elrebelde1" style="display:inline-block; text-decoration: none;">
-  <img src="https://github.com/Elrebelde1.png" width="130" height="130" alt="Barboza" style="border-radius: 50%;" />
-</a>
-<a href="https://github.com/Izumi-kzx" style="display:inline-block; text-decoration: none; margin-left: 10px;">
-  <img src="https://github.com/Izumi-kzx.png" width="130" height="130" alt="Izumi Ofc" style="border-radius: 50%;" />
-</a>
+> **[Sonic Bot Channel Official](https://whatsapp.com/channel/0029Vb3oShrICVfiTWhDHM13)**
