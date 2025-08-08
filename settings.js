@@ -61,8 +61,8 @@ global.etiqueta = 'Orlando MxM'
 global.moneda = 'sonicCoins'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://files.catbox.moe/bvew26.jpg'
-global.avatar = 'https://files.catbox.moe/syn9ao.jpg'
+global.banner = 'https://cdn.russellxz.click/854b9199.jpeg'
+global.avatar = 'https://cdn.russellxz.click/854b9199.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
